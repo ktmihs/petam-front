@@ -1,0 +1,81 @@
+.jg{font-family: 'Jeju Gothic', sans-serif;}
+.ngc{font-family: 'Nanum Gothic Coding', monospace;}
+.nm{font-family: 'Nanum Myeongjo', serif;}
+
+.sidebar-body {
+  display: flex;
+  flex-direction: row;
+}
+.body {
+  flex-direction: row !important;
+  width: 100% !important;
+  max-height: calc(100vh - 70px);
+  height: auto;
+  overflow-y: scroll !important;
+  background-color: rgb(209, 225, 245);
+}
+.body::-webkit-scrollbar {
+  display: none;
+}
+.name {
+  color: #395382;
+  margin: 5vh 0;
+  text-align: center;
+}
+.headerContainer {
+  margin-top: 15px;
+  text-align: center;
+}
+.bodyContainer {
+  text-align: center;
+  margin: 5vh 3vw;
+}
+.b {
+  border: 1px solid red;
+}
+.contentBox {
+  display: inline-block;
+  text-align: center;
+  min-height: 280px;
+  overflow: hidden;
+  margin-left: 50px;
+  word-wrap: break-word;
+  line-height: 30px;
+}
+.ContentBoxHospitalInfo {
+  display: inline-block;
+  height: 280px;
+  width: 500px;
+  padding-top:20px;
+  overflow: hidden;
+  word-wrap: break-word;
+  line-height: 30px;
+}
+.button {
+  color: white;
+  text-align: center;
+  height: 40px;
+  width: 120px;
+  border-radius: 10px;
+  border: 0;
+  margin: 5px 10px;
+}
+.divide {
+  text-align: left;
+}
+.divide-left {
+  text-align: center;
+  border:none;
+  background-color:white;
+  font-size:18px;
+  color:#666;
+  width:110px;
+}
+.divide-right {
+  text-align: center;
+  border:none;
+  background-color:white;
+  font-size:18px;
+  color:#666;
+  width:110px;
+}

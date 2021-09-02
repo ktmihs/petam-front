@@ -1,0 +1,54 @@
+.contentBox{
+    display:inline-block;
+    padding:0px;
+    margin-right:3%;
+    width:40%;
+    min-width:400px;
+    height: fit-content;
+    overflow:hidden;
+    word-wrap:break-word;
+    line-height:30px;
+  }
+  .TopContent{
+    text-align:center;
+  }
+  .logo{
+    display:inline-block;
+    height:40px;
+    vertical-align:top;     /* 이미지 하단 여백 없애기 */
+  }
+  .contentName{
+    text-align:center;
+    font-size:22px;
+    Text-decoration:none;
+    color:#333944;
+    display:inline-block;
+    width:45%;
+    padding:10px 0;
+  }
+  .BottomContent{
+    padding:2vh 20px;
+    vertical-align: middle;
+  }
+  .adTitle{
+    height:30px;
+    padding:13px;
+    text-align:center;
+    color:#ff8877;
+    font-size:16px;
+  }
+  .news{
+    color:#ffd23d;
+  }
+  .link{
+    Text-decoration:none;
+  }
+  .ad{
+    border-radius:10px;
+    box-shadow:3px 3px 3px 3px #ffbbaa;
+    text-align:center;
+    font-size:15px;
+    margin-top:30px;
+    height:90px;
+    width:100%;
+  }

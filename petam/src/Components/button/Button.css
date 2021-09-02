@@ -1,0 +1,55 @@
+.tolist {
+  /* marghin-bottom: 20px; */
+  background-color: rgb(209, 225, 245);
+  text-align: center;
+  padding: 0.5rem;
+  border-radius: 10px;
+  color: #395382 !important;
+  text-decoration: none !important;
+  text-decoration-style: none;
+}
+.tolist:hover {
+  text-decoration: none !important;
+  /* text-decoration-style: none; */
+}
+.signin {
+  min-width: 100px;
+  max-width: 120px;
+  background-color: white;
+  border-radius: 5px;
+  border: none;
+  margin: 0px 15px;
+  /* vertical-align: middle; */
+  /* margin-right: 30px; */
+  padding: 10px 15px;
+  float: right;
+}
+
+.signup {
+  min-width: 100px;
+  max-width: 120px;
+  background-color: #858796;
+  border-radius: 5px;
+  border: none;
+  margin: auto;
+  /* vertical-align: middle; */
+  margin: 0px 15px;
+  padding: 10px 15px;
+  float: right;
+  color: white;
+}
+.sign-component {
+  float: right;
+  /* width: 45%; */
+}
+.main-button {
+  text-align: center;
+  width: auto;
+  height: 100%;
+  min-height: 100%;
+  margin-left: 10px;
+  margin-top: 5px;
+  vertical-align: middle;
+  /* border: 1px solid green; */
+  float: left;
+}

@@ -1,0 +1,61 @@
+.item-box{
+  display:inline-block;
+  border-radius: 10px;
+  text-align:center;
+  height:200px;
+  width:164px;
+  margin:20px 20px 0 20px;
+  padding:5px 0;
+  font-size:14px;
+  color:#333333;
+  box-shadow: 3px 3px 10px 0 rgba(0,0,0,0.3);
+}
+.img-style {
+  width: 150px;
+  height: 125px;
+  vertical-align: top;
+}
+.search {
+  display:inline-block;
+  border:1px solid #bbbcbc;
+  border-radius:10px;
+  width:40%;
+  padding-left: 15px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+.search-button {
+  background-color:#98B6E4;
+  margin-left:10px;
+  width:80px;
+}
+.sign{
+  color:#333333;
+  margin:5px 12px;
+  height:40px;
+  font-size: large;
+} 
+.reservation {
+  height:160px;
+  width:140px;
+  padding:20px 5px;
+  margin:3vw 3vh;
+  border-radius:30px;
+  display:inline-block;
+  text-align:center;
+  font-size:14px;
+  box-shadow: 3px 3px 10px 0 rgba(0,0,0,0.3);
+}
+.b {
+  /* border: 1px solid red; */
+}
+.sign-btn{
+  color:#333333;
+  margin:10px;
+  font-size: large;
+}
+.reserve-btn{
+  color:#333;
+  margin:10px;
+  font-size: large;
+}

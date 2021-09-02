@@ -1,0 +1,28 @@
+.content{
+  padding-top: 20px;
+  margin: 10px 3% 20px 3%;
+  overflow: hidden;
+  word-wrap: break-word;
+  line-height: 30px;
+}
+.timeBtn{
+  width:70px;
+  height:35px;
+  background-color:#9478ff80;
+  color:white;
+  font-size:14px;
+  border:0;
+  border-radius:5px;
+  margin:2px 3px;
+}
+.timeBtnDisabled{
+  display:inline-box;
+  width:70px;
+  height:35px;
+  background-color:#dddddd;
+  color:white;
+  font-size:14px;
+  border:0;
+  border-radius:5px;
+  margin:2px 3px;
+}

@@ -1,0 +1,65 @@
+.product-view-name {
+  color: #395382;
+  margin-left: 20px;
+  margin-top: 20px;
+  text-align: left;
+}
+
+.product-title {
+  float: left;
+  min-width: 100%;
+  font-size: small;
+  padding: 5px px;
+  margin: 0px 10px;
+  /* border: 1px solid; */
+  /* min-height: 50px; */
+  /* padding-top: 10px; */
+  /* vertical-align: text-bottom; */
+  /* text-align: justify; */
+  /* vertical-align: bottom; */
+}
+.product-title-50 {
+  float: left;
+  min-width: 43%;
+  font-size: small;
+  padding: 5px px;
+  margin: 0px 10px;
+  /* border: 1px solid; */
+  /* min-height: 50px; */
+  /* padding-top: 10px; */
+  /* vertical-align: text-bottom; */
+  /* text-align: justify; */
+  /* vertical-align: bottom; */
+}
+.product-detail {
+  /* min-height: px; */
+  /* float: right; */
+  float: left;
+  margin-top: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom: 20px;
+  /* margin-right: 20px; */
+  padding: 10px 20px;
+  /* margin: 10px 10px; */
+  border-radius: 20px;
+  border: 1px solid lightgray;
+  /* width: 100%; */
+  min-width: 99%;
+}
+.product-50 {
+  /* min-height: px; */
+  /* float: right; */
+  float: left;
+  margin-top: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  /* margin-right: 20px; */
+  padding: 10px 20px;
+  /* margin: 10px 10px; */
+  border-radius: 20px;
+  border: 1px solid lightgray;
+  /* width: 100%; */
+  min-width: 45%;
+}

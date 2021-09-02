@@ -1,0 +1,27 @@
+.tables{
+  text-align: center;
+  margin:0 auto;
+}
+.th{
+  width:15vw;
+  padding:5px;
+  text-align: center;
+}
+.td{
+  width:15vw;
+  padding:5px;
+  font-size: 15px;
+  text-align: center;
+}
+.reserve-check{
+    width: 80px;
+    height: 30px;
+    border:0;
+    border-radius: 5px;
+    background-color: rgb(255, 203, 184);
+    color: rgb(103, 105, 109);
+}
+.box-size{
+  max-width:280px;
+  margin:10px;
+}

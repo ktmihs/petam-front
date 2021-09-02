@@ -1,0 +1,76 @@
+.comment-input {
+  padding: 10px 15px;
+  border-radius: 10px;
+  border-color: lightgray;
+  width: calc(100% - 85px);
+  min-height: 100px;
+  max-height: 100px;
+  overflow-y: scroll;
+  float: left;
+  font-size: 20;
+}
+
+.comment {
+  min-height: 150px;
+}
+
+.comment-profile {
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  vertical-align: middle;
+  margin-bottom: 10px;
+}
+.comment-write-button {
+  float: left;
+  width: 10%;
+  border: none;
+  min-width: 70px;
+  max-width: 70px;
+  min-height: 100px;
+  max-height: 100px;
+  border-radius: 10px;
+  color: white !important;
+  text-decoration: none !important;
+  text-decoration-style: none;
+  background-color: #98b6e4;
+  text-align: center;
+  text-align-last: center;
+  padding: 37px 0;
+}
+å .comment-cancel-button {
+  float: right;
+}
+.comment-scope {
+  width: 100%;
+  min-height: 103px;
+}
+
+.comment-top {
+  margin: 20px 30px 0px 30px;
+  min-height: 30px;
+  height: auto;
+  display: block;
+}
+.comment-top-writer {
+  margin: auto;
+  visibility: inherit;
+  font-size: large;
+}
+.comment-detail {
+  margin: 0px 30px 0px 30px;
+}
+.comment-top-time {
+  margin-top: 8px;
+  visibility: inherit;
+  font-size: small;
+}
+.comment-buttons {
+  margin: 0px 30px 0px 20px;
+  min-height: 30px;
+}
+.comment-button {
+  float: right;
+  margin-left: 10px;
+  font-size: small;
+}
